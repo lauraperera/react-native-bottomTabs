@@ -1,6 +1,6 @@
 # react-native-bottomTabs
 
-## base
+## Base
 
 ```
 npm install @react-navigation/native'
@@ -10,7 +10,7 @@ npm install @react-navigation/native'
 expo install react-native-screens react-native-safe-area-context
 ```
 
-## específico do bottom tabs
+## Específico do bottom tabs
 
 ```
 npm install @react-navigation/bottom-tabs
